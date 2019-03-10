@@ -1,0 +1,4 @@
+div.container-precio-idioma {
+  display: flex;
+  justify-content: space-between;
+}
